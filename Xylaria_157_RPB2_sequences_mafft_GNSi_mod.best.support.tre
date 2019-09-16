@@ -1,0 +1,207 @@
+#NEXUS
+
+[ SumTrees Version 3.3.1 (May 05 2011) by Jeet Sukumaran and Mark T. Holder. ]
+[ Using DendroPy Version 3.12.0 by Jeet Sukumaran and Mark T. Holder. ]
+[ Running under Python 2.7.3 (default, Jan  8 2013, 23:20:14) (GCC 4.4.6 20110731 (Red Hat 4.4.6-3)) on linux2. ]
+[ Executed on mike1 by tedggarc@mike1. ]
+[ Basis of split support: ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run00.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run01.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run02.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run03.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run04.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run05.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run06.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run07.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run08.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run09.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run10.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run11.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run12.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run13.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run14.boot.tre' ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.run15.boot.tre' ]
+[ Began at: 2019-09-11 11:07:04.039870. ]
+[ Ended at: 2019-09-11 11:07:30.229874. ]
+[ Run time: 0 hour(s), 00 minute(s), 26.190004 second(s). ]
+[ 1008 trees considered in total for split support assessment. ]
+[ Tree rooting as given by tree statement (defaults to unrooted). ]
+[ Trees treated as unweighted. ]
+[ 156 unique taxa across all trees. ]
+[ 2854 unique splits out of 293411 total splits counted. ]
+[ 2697 unique non-trivial splits out of 135155 total non-trivial splits counted. ]
+[ Split support mapped to trees in: ]
+[   - '/ddnB/work/tedggarc/XylariaAugust2019/Xylaria_157_RPB2_sequences_mafft_GNSi_mod/ML_support/Xylaria_157_RPB2_sequences_mafft_GNSi_mod.best.tre' (1 trees) ]
+[ Percentage of support for each split indicated by node labels. ]
+[ Not setting edge lengths on output tree(s). ]
+
+
+BEGIN TAXA;
+
+    DIMENSIONS NTAX=156;
+    TAXLABELS
+        1956_JR 
+        1959_JR 
+        1960_JR 
+        Amphirosellinia_fushanensis_voucher_91111209 
+        Amphirosellinia_nigrospora_voucher_91092308 
+        Annulohypoxylon_cohaerens_voucher_YMJ_310 
+        Astrocystis_bambusae_voucher_89021904 
+        Astrocystis_mirabilis_voucher_94070803 
+        Astrocystis_sublimbata_voucher_89032207 
+        BPI584154 
+        BPI584160 
+        BPI584188 
+        BPI714601 
+        Biscogniauxia_arima_voucher_YMJ_122 
+        Biscogniauxia_mediterranea_voucher_YMJ_147 
+        'DMCC2101_2017_isolate.MS' 
+        'DMCC2126_2017_isolate.LA' 
+        'DMCC2127_2017_isolate.LA' 
+        'DMCC2165_2017_isolate.LA' 
+        'DMCC2466_2017_isolate.AR' 
+        'DMCC2470_2017_isolate.AR' 
+        'DMCC2477_2017_isolate.TN' 
+        'DMCC2478_2017_isolate.TN' 
+        'DMCC2481_2017_isolate.AR' 
+        'DMCC2488_2017_isolate.AR' 
+        'DMCC2532_2017_isolate.AL' 
+        'DMCC2534_2017_isolate.AL' 
+        'DMCC2618_2017_isolate.AL' 
+        'DMCC2622_2017_isolate.AL' 
+        Discoxylaria_myrmecophila_voucher_169 
+        Entoleuca_mammata_voucher_100 
+        Euepixylon_sphaeriostomum_voucher_261 
+        Kretzschmaria_clavus_YMJ_114 
+        Kretzschmaria_guyanensis_voucher_89062903 
+        Kretzschmaria_lucidula_voucher_YMJ_112 
+        Kretzschmaria_megalospora_voucher_YMJ_229 
+        Kretzschmaria_neocaledonica__voucher_94031003 
+        Kretzschmaria_pavimentosa_voucher_109 
+        Kretzschmaria_sandvicensis_voucher_113 
+        Nemania_abortiva_voucher_467 
+        Nemania_beaumontii_voucher_405 
+        Nemania_bipapillata_voucher_90080610 
+        Nemania_diffusa_voucher_91020401 
+        Nemania_illita_voucher_YMJ_236 
+        Nemania_macrocarpa_voucher_265 
+        Nemania_maritima_voucher_89120401 
+        Nemania_primolutea_voucher_YMJ_91102001 
+        Nemania_serpens_voucher_235 
+        Penzigia_cantareirensis_voucher_526 
+        Podosordaria_mexicana_voucher_176 
+        Podosordaria_muli_voucher_167 
+        Poronia_pileiformis_voucher_88113001 
+        Rosellinia_buxi_voucher_99 
+        Rosellinia_lamprostoma_voucher_YMJ_89112602 
+        Rosellinia_merrillii_voucher_89112601 
+        Rosellinia_necatrix_voucher_YMJ_89062904 
+        Rosellinia_sanctaecruciana_voucher_90072903 
+        Stilbohypoxylon_elaeicola_voucher_94082615 
+        Stilbohypoxylon_elaeicola_voucher_YMJ_173 
+        Stilbohypoxylon_quisquiliarum_voucher_YMJ_172 
+        Stilbohypoxylon_quisquiliarum_voucher_YMJ_89091608 
+        TRD_MSU_SB201401 
+        Xc07162017.MSA 
+        Xs06102017.MSA 
+        Xylaria_acuminatilongissima_voucher_623 
+        Xylaria_adscendens_voucher_570 
+        Xylaria_adscendens_voucher_865 
+        Xylaria_allantoidea_voucher_94042903 
+        Xylaria_amphithele_voucher_529 
+        Xylaria_apoda_voucher_90080804 
+        Xylaria_arbuscula_isolate_FL1030 
+        'Xylaria_arbuscula_var._plenofissura_voucher_93082814' 
+        Xylaria_arbuscula_voucher_89041211 
+        Xylaria_areolata_voucher_543 
+        Xylaria_atrodivaricata_voucher_95052001 
+        Xylaria_atrosphaerica_voucher_91111214 
+        Xylaria_badia_voucher_95070101 
+        Xylaria_bambusicola_voucher_162 
+        Xylaria_bambusicola_voucher_YMJ_205 
+        Xylaria_berteri_voucher_256 
+        Xylaria_berteri_voucher_YMJ_90112623 
+        Xylaria_brunneovinosa_voucher_720 
+        Xylaria_castorea_voucher_600 
+        'Xylaria_cf._castorea_voucher_91092303' 
+        'Xylaria_cf._glebulosa_voucher_431' 
+        'Xylaria_cf._heliscus_voucher_88113010' 
+        Xylaria_cirrata_voucher_664 
+        Xylaria_coccophora_voucher_786 
+        Xylaria_cranioides_voucher_226 
+        Xylaria_crozonensis_voucher_398 
+        Xylaria_cubensis_voucher_515 
+        Xylaria_cubensis_voucher_860 
+        Xylaria_culleniae_voucher_189 
+        Xylaria_curta_voucher_494 
+        Xylaria_curta_voucher_92092022 
+        Xylaria_digitata_voucher_919 
+        Xylaria_enterogena_voucher_785 
+        Xylaria_escharoidea_voucher_658 
+        Xylaria_feejeensis_voucher_180 
+        Xylaria_feejeensis_voucher_565 
+        Xylaria_feejeensis_voucher_92092013 
+        Xylaria_fimbriata_voucher_491 
+        Xylaria_fissilis_voucher_367 
+        Xylaria_frustulosa_voucher_771 
+        Xylaria_frustulosa_voucher_92092010 
+        Xylaria_globosa_voucher_775 
+        Xylaria_grammica_voucher_479 
+        Xylaria_griseosepiacea_voucher_641 
+        Xylaria_haemorrhoidalis_voucher_89041207 
+        Xylaria_hypoxylon_voucher_152 
+        Xylaria_hypoxylon_voucher_95082001 
+        Xylaria_ianthinovelutina_voucher_553 
+        Xylaria_intracolorata_voucher_90080402 
+        Xylaria_intraflava_voucher_725 
+        Xylaria_juruensis_voucher_92042501 
+        Xylaria_laevis_voucher_419 
+        Xylaria_laevis_voucher_95072910 
+        Xylaria_liquidambaris_voucher_93090701 
+        'Xylaria_luteostromata_var._macrospora_voucher_508' 
+        'Xylaria_mali_CBS_385.35' 
+        Xylaria_meliacearum_voucher_148 
+        Xylaria_microceras_voucher_414 
+        Xylaria_montagnei_voucher_495 
+        Xylaria_multiplex_voucher_259 
+        Xylaria_multiplex_voucher_580 
+        Xylaria_muscula_voucher_520 
+        Xylaria_nigripes_voucher_653 
+        Xylaria_ochraceostroma_voucher_401 
+        Xylaria_oligotoma_voucher_784 
+        Xylaria_ophiopoda_voucher_93082805 
+        Xylaria_oxyacanthae_voucher_859 
+        Xylaria_palmicola_voucher_604 
+        Xylaria_papulis_voucher_89021903 
+        Xylaria_phyllocharis_voucher_528 
+        Xylaria_plebeja_voucher_91122401 
+        Xylaria_polymorpha_voucher_1012 
+        Xylaria_regalis_voucher_920 
+        Xylaria_regalis_voucher_92072001 
+        Xylaria_schweinitzii_voucher_92092023 
+        Xylaria_scruposa_voucher_497 
+        'Xylaria_sicula_f._major_voucher_90071613' 
+        'Xylaria_sp._1_HMH2010a' 
+        'Xylaria_sp._2_HMH2010b' 
+        'Xylaria_sp._3_HMH2010c' 
+        'Xylaria_sp._4_HMH2010d' 
+        'Xylaria_sp._5_HMH2010e' 
+        'Xylaria_sp._6_HMH2010f' 
+        'Xylaria_sp._7_HMH2010g' 
+        'Xylaria_sp._8_HMH2010h' 
+        Xylaria_striata_voucher_304 
+        Xylaria_telfairii_voucher_421 
+        Xylaria_telfairii_voucher_90081901 
+        Xylaria_tuberoides_voucher_475 
+        Xylaria_venosula_voucher_YMJ_94080508 
+        Xylaria_venustula_voucher_88113002 
+        'Xylaria.striata.RK1_1' 
+  ;
+END;
+
+BEGIN TREES;
+
+    TREE bestREP20 = [&U] [!GarliScore -44297.759978][!GarliModel  M1 r  1.84343 10.14626 1.36725 1.29118 10.14626 1.00000 e 0.21808 0.31099 0.22543 0.24550 a 0.85051 p 0.40531 ](1956_JR:1e-08,((((((Xylaria_bambusicola_voucher_YMJ_205:1e-08,Xylaria_bambusicola_voucher_162:0.00152679)100:0.08985005,(((((Kretzschmaria_megalospora_voucher_YMJ_229:0.04370356,Kretzschmaria_guyanensis_voucher_89062903:0.02514402)100:0.03867318,(Kretzschmaria_sandvicensis_voucher_113:0.06202799,(Kretzschmaria_neocaledonica__voucher_94031003:0.03144179,(Kretzschmaria_clavus_YMJ_114:0.00737536,Kretzschmaria_lucidula_voucher_YMJ_112:0.01036711)100:0.03375448,Kretzschmaria_pavimentosa_voucher_109:0.05125893)64:0.00377553)100:0.01890431)63:0.01046585,Xylaria_cranioides_voucher_226:0.050638)58:0.00894846,((Xylaria_tuberoides_voucher_475:0.05765954,((('Xylaria_sp._6_HMH2010f':0.15435795,Xylaria_amphithele_voucher_529:0.12349102)83:0.03479922,'Xylaria_sicula_f._major_voucher_90071613':0.24385158)67:0.04028859,(Xylaria_meliacearum_voucher_148:0.15494891,((Xylaria_microceras_voucher_414:0.00299897,Xylaria_muscula_voucher_520:0.00875009)100:0.12770789,Penzigia_cantareirensis_voucher_526:0.07826778)49:0.01489677)25:0.00921652)44:0.01790091)10:0.00182253,(Xylaria_areolata_voucher_543:0.09207849,(((Xylaria_grammica_voucher_479:0.07239054,((Xylaria_hypoxylon_voucher_152:0.01694237,Xylaria_hypoxylon_voucher_95082001:0.01366459)99:0.01351601,Xylaria_liquidambaris_voucher_93090701:0.07140309)69:0.0048103)90:0.00792947,((Xylaria_papulis_voucher_89021903:0.02373049,((Xylaria_multiplex_voucher_259:0.00305213,Xylaria_multiplex_voucher_580:1e-08)100:0.06107065,'Xylaria_mali_CBS_385.35':0.00774784)44:0.00281488)43:0.00576634,(Xylaria_adscendens_voucher_570:0.01943157,Xylaria_adscendens_voucher_865:0.00820098)90:0.00400051)100:0.08636019)100:0.03323327,(Xylaria_fissilis_voucher_367:0.09418796,(((Xylaria_fimbriata_voucher_491:0.13951313,(Xylaria_brunneovinosa_voucher_720:0.17339369,(((Xylaria_intraflava_voucher_725:0.14585813,(('Xylaria_sp._1_HMH2010a':0.17363849,'Xylaria_sp._4_HMH2010d':0.17698188)37:0.01309979,(Xylaria_atrodivaricata_voucher_95052001:0.03435138,Xylaria_griseosepiacea_voucher_641:0.07077196)100:0.10658507)30:0.0164784)15:0.00490178,(Xylaria_ochraceostroma_voucher_401:0.10972484,'Xylaria_sp._5_HMH2010e':0.11114964)97:0.06039625)36:0.00726088,((Xylaria_cirrata_voucher_664:0.12842354,('Xylaria_sp._2_HMH2010b':0.09569919,Xylaria_escharoidea_voucher_658:0.14257331)99:0.06213321)91:0.02664629,((Xylaria_acuminatilongissima_voucher_623:0.04573479,'Xylaria_sp._3_HMH2010c':0.04794478)70:0.01937675,Xylaria_nigripes_voucher_653:0.09495983)94:0.02365826)57:0.01873506)44:0.01391336)93:0.02407334)68:0.03851356,((Biscogniauxia_arima_voucher_YMJ_122:0.18394025,Biscogniauxia_mediterranea_voucher_YMJ_147:0.18224997)99:0.15543056,Annulohypoxylon_cohaerens_voucher_YMJ_310:0.56151999)99:0.26404705)68:0.03776793,((Poronia_pileiformis_voucher_88113001:0.26724449,(Podosordaria_mexicana_voucher_176:0.13863578,Podosordaria_muli_voucher_167:0.08666666)100:0.18732717)81:0.10492279,((((Xylaria_badia_voucher_95070101:0.18366301,(((Xylaria_frustulosa_voucher_771:0.00076872,Xylaria_frustulosa_voucher_92092010:1e-08)100:0.08900931,(Xylaria_feejeensis_voucher_565:0.00129594,(Xylaria_feejeensis_voucher_92092013:0.00311681,Xylaria_feejeensis_voucher_180:0.00077892)69:0.00261831)100:0.15149213)62:0.01596889,(((((Xylaria_plebeja_voucher_91122401:0.0253338,'Xylaria_luteostromata_var._macrospora_voucher_508':0.01750345)100:0.01819264,('Xylaria_cf._heliscus_voucher_88113010':0.05543258,Xylaria_intracolorata_voucher_90080402:0.03621655)74:0.00539598)91:0.01758533,((Xylaria_scruposa_voucher_497:0.04119921,((('Xylaria_cf._glebulosa_voucher_431':0.03486862,Xylaria_ophiopoda_voucher_93082805:0.00801317)71:0.00312588,(Xylaria_schweinitzii_voucher_92092023:0.0158493,(Xylaria_globosa_voucher_775:0.01625701,Xylaria_haemorrhoidalis_voucher_89041207:0.01769897)90:0.00544456)71:0.00417737)99:0.01387071,(Xylaria_atrosphaerica_voucher_91111214:0.03622882,Xylaria_polymorpha_voucher_1012:0.0085448)81:0.00464748)83:0.00606838)100:0.01825389,((Xylaria_telfairii_voucher_90081901:0.00544536,Xylaria_telfairii_voucher_421:0.012331)100:0.01436974,Xylaria_enterogena_voucher_785:0.0252368)100:0.02143454)100:0.03460479)81:0.00998693,((Xylaria_digitata_voucher_919:0.03413042,(Xylaria_montagnei_voucher_495:0.05314485,(Amphirosellinia_fushanensis_voucher_91111209:0.1120982,Amphirosellinia_nigrospora_voucher_91092308:0.07235915)99:0.05354896)21:0.0029146)25:0.00419623,(Xylaria_allantoidea_voucher_94042903:0.06500146,(Xylaria_regalis_voucher_92072001:1e-08,Xylaria_regalis_voucher_920:1e-08)100:0.04178786)56:0.00556917)36:0.00493357)37:0.00914656,(((Astrocystis_sublimbata_voucher_89032207:0.27726568,(Astrocystis_bambusae_voucher_89021904:0.2889527,Astrocystis_mirabilis_voucher_94070803:0.08246705)53:0.05139215)31:0.01734314,(Stilbohypoxylon_quisquiliarum_voucher_YMJ_172:0.03118443,Stilbohypoxylon_quisquiliarum_voucher_YMJ_89091608:0.01895266)100:0.04888306)18:0.01249162,(('Xylaria_cf._castorea_voucher_91092303':0.02017053,Xylaria_castorea_voucher_600:0.02482096)99:0.01913637,((Xylaria_berteri_voucher_YMJ_90112623:0.01799858,(Xylaria_berteri_voucher_256:0.01576691,Xylaria_crozonensis_voucher_398:0.02662345)66:0.00480203)100:0.04569474,((Xylaria_laevis_voucher_419:0.02482176,Xylaria_laevis_voucher_95072910:0.02360636)99:0.03277634,(Xylaria_cubensis_voucher_515:0.02981107,((Xc07162017.MSA:0.00719632,Xylaria_cubensis_voucher_860:0.00901177)90:0.00437612,Xs06102017.MSA:0.0163477)100:0.01440151)100:0.02724103)59:0.00432212)67:0.00587369)92:0.01886712)12:0.00710023)29:0.00552938)34:0.00817691)68:0.03384832,(((Xylaria_curta_voucher_92092022:0.00433303,Xylaria_curta_voucher_494:0.00430775)100:0.08379733,('Xylaria_sp._8_HMH2010h':0.0723326,((Xylaria_juruensis_voucher_92042501:0.01336774,(Stilbohypoxylon_elaeicola_voucher_YMJ_173:0.00387048,Stilbohypoxylon_elaeicola_voucher_94082615:0.00236652)100:0.02626332)100:0.01407635,(Xylaria_culleniae_voucher_189:0.01172567,Xylaria_ianthinovelutina_voucher_553:0.01723205)97:0.01728165)100:0.08413583)93:0.02357173)81:0.0094454,Xylaria_apoda_voucher_90080804:0.09951174)99:0.03865549)9:0.00844688,(((Nemania_macrocarpa_voucher_265:0.10540746,Nemania_maritima_voucher_89120401:0.15494363)100:0.06278735,((((Nemania_illita_voucher_YMJ_236:0.04211956,Nemania_bipapillata_voucher_90080610:0.08179426)79:0.01444833,Nemania_diffusa_voucher_91020401:0.07783558)92:0.01602792,(Nemania_primolutea_voucher_YMJ_91102001:0.07500751,Nemania_abortiva_voucher_467:0.07838715)96:0.0308431)94:0.0192623,((Euepixylon_sphaeriostomum_voucher_261:0.07523033,Nemania_serpens_voucher_235:0.05284599)100:0.03539773,Nemania_beaumontii_voucher_405:0.09983437)99:0.0249547)41:0.00524356)99:0.0301589,((Entoleuca_mammata_voucher_100:0.0154068,Rosellinia_merrillii_voucher_89112601:0.09535306)100:0.19352909,((Rosellinia_sanctaecruciana_voucher_90072903:0.08419939,Rosellinia_lamprostoma_voucher_YMJ_89112602:0.19524929)96:0.0491928,(Rosellinia_buxi_voucher_99:0.05142438,Rosellinia_necatrix_voucher_YMJ_89062904:0.1027503)99:0.05825583)71:0.01783162)80:0.02849087)44:0.01270757)21:0.01307009,(Xylaria_phyllocharis_voucher_528:0.26673846,((('Xylaria_sp._7_HMH2010g':0.04088181,Xylaria_palmicola_voucher_604:0.03582517)100:0.04930776,Xylaria_oxyacanthae_voucher_859:0.09299547)97:0.03093898,Discoxylaria_myrmecophila_voucher_169:0.24100591)91:0.0693269)11:0.00489376)49:0.01238433)61:0.01366707)100:0.05106721)84:0.00834657)100:0.04548294)46:0.00610965)21:0.00528768)27:0.0107193,(Xylaria_venustula_voucher_88113002:0.10372964,(Xylaria_oligotoma_voucher_784:0.03175861,Xylaria_coccophora_voucher_786:0.02392081)100:0.05906698)100:0.04464634)100:0.06848046)100:0.06787414,(Xylaria_striata_voucher_304:0.05497583,('DMCC2126_2017_isolate.LA':1e-08,'DMCC2101_2017_isolate.MS':1e-08,('DMCC2127_2017_isolate.LA':1e-08,'DMCC2478_2017_isolate.TN':1e-08,'DMCC2477_2017_isolate.TN':1e-08)63:0.00085589,'Xylaria.striata.RK1_1':1e-08,(TRD_MSU_SB201401:1e-08,('DMCC2534_2017_isolate.AL':1e-08,('DMCC2532_2017_isolate.AL':0.00108837,'DMCC2618_2017_isolate.AL':1e-08,'DMCC2481_2017_isolate.AR':1e-08,'DMCC2622_2017_isolate.AL':1e-08)17:0.00449399,'DMCC2466_2017_isolate.AR':1e-08,'DMCC2165_2017_isolate.LA':1e-08,'DMCC2488_2017_isolate.AR':1e-08)21:0.00864221,'DMCC2470_2017_isolate.AR':1e-08)59:0.00076379)100:0.05235273)48:0.00958575)100:0.04452382,'Xylaria_arbuscula_var._plenofissura_voucher_93082814':0.03700663)100:0.06354654,Xylaria_venosula_voucher_YMJ_94080508:0.01002558)54:0.00175943,Xylaria_arbuscula_voucher_89041211:1e-08,(Xylaria_arbuscula_isolate_FL1030:1e-08,BPI584154:0.0038563)48:0.00094318)13:0.00374968,(BPI584188:1e-08,1959_JR:1e-08,BPI714601:1e-08,BPI584160:1e-08,1960_JR:1e-08)60:0.00376461)100;
+
+END;
+
